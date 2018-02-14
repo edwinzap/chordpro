@@ -1,4 +1,4 @@
 # chordpro
 
-Using Laravel
-Using UkeGeeks library: https://github.com/buzcarter/UkeGeeks
+- Using Laravel
+- Using UkeGeeks library: https://github.com/buzcarter/UkeGeeks
